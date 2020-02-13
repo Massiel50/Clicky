@@ -1,7 +1,3 @@
-import React, { Component } from "react";
-import paintings from "./cards.json";
-import Scoreboard from "./components/Scoreboard";
-import Card from "./components/Card";
 
 import React from "react";
 import FriendCard from "./components/FriendCard";
